@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>bio data <datagrid>
+      
+    </datagrid></title>
+</head>
+<body>
+
+    <!-- Text input -->
+    <input type="text" placeholder="name/म/పేరు/नाम/പേര്">
+  <br><br>
+    <!-- text input -->
+    <input type="text" placeholder="class">
+    <input type="text" placeholder="subject">
+    <input type="text" placeholder="sec">
+    <br><br>
+    <input type=" combobox" placeholder="blood group">
+       <!--checkbox-->
+    <input type="checkbox">A+
+    <input type="checkbox">B+
+    <input type="checkbox">A-
+    <input type="checkbox">B-
+    <br><br>
+    <!--text-->
+    <labal>
+      <input type="text" placeholder="favorite drink"
+    </labal>
+
+    <!-- Checkbox -->
+    <label>
+      <br><br>
+        <input type="checkbox"> Tea
+    </label>
+    <label>
+        <input type="checkbox"> Coffee
+    </label>
+        <input type="checkbox"> boost
+    </labal>
+    
+    <br><br>
+
+    <!-- Date input -->
+    <input type="date">
+
+    <br><br>
+
+    <!-- Radio buttons -->
+    <label>
+        <input type="radio" name="drink"> apple jucie
+    </label>
+    <label>
+        <input type="radio" name="drink"> lemon jucie
+    </label>
+    <!--combobox-->
+    <label>
+      <br><br>
+      <input type="combobox" 
+      
+    </label>
+    <!--text filed-->
+    </label>
+    <br><br>
+       <input type="text filed"
+      </label>
+    
+
+</body>
+</html>
